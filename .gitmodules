@@ -1,0 +1,33 @@
+[submodule "rralle"]
+	path = rralle
+	url = https://github.com/q60/rralle
+[submodule "vreri"]
+	path = vreri
+	url = https://github.com/q60/vreri
+[submodule "past"]
+	path = past
+	url = https://github.com/q60/past
+[submodule "mursa"]
+	path = mursa
+	url = https://github.com/q60/mursa
+[submodule "gigagei"]
+	path = gigagei
+	url = https://github.com/q60/gigagei
+[submodule "seanchrionna"]
+	path = seanchrionna
+	url = https://github.com/q60/seanchrionna
+[submodule "veletlenszeru"]
+	path = veletlenszeru
+	url = https://github.com/q60/veletlenszeru
+[submodule "zhenyan"]
+	path = zhenyan
+	url = https://github.com/q60/zhenyan
+[submodule "audna"]
+	path = audna
+	url = https://github.com/q60/audna
+[submodule "sarnevesht"]
+	path = sarnevesht
+	url = https://github.com/q60/sarnevesht
+[submodule "scutiwen"]
+	path = scutiwen
+	url = https://github.com/q60/scutiwen
