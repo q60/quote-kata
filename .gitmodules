@@ -31,3 +31,6 @@
 [submodule "scutiwen"]
 	path = scutiwen
 	url = https://github.com/q60/scutiwen
+[submodule "svapnamu"]
+	path = svapnamu
+	url = https://github.com/q60/svapnamu
